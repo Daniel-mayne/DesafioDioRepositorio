@@ -1,2 +1,5 @@
-# DesafioDioRepositorio
-Desafio para criar um repositório de Projeto sobre o Git/GitHub
+# Desafio de Projeto sobre Git/GitHub da Dio
+Repositório criado para o Desafio de Projeto.
+
+## links Úteis
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
